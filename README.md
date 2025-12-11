@@ -12,27 +12,21 @@ I'm a software developer with a background as a freelance musician, a career whe
 
 ## Showcase
 
-### Raytracer
+### [Raytracer](https://github.com/v-kuu/Raytracer)
 ![Raytracer screenshot](assets/raytracer.png)
 
 I'm developing a raytracer for personal use as my big forever project. It has so far taught me a lot about project planning, build systems, modern C++, breaking circular dependencies, OOP patterns and most importantly how to implement algorithms related to graphics programming. My biggest use case for it is to continue learning and to have visual comparisons available for my implementations.
 
-💻 [Code](https://github.com/v-kuu/Raytracer)
-
-### Asteroidgame
+### [Asteroidgame](https://github.com/v-kuu/AsteroidGame)
 ![Asteroid screenshot](assets/asteroid.png)
 
 I wanted to learn to use the SFML library for an upcoming Supercell internship challenge, so I made a little Asteroids inspired game using the library. I learned how to better handle user input and how to implement my own shaders into a real program.
 
-💻 [Code](https://github.com/v-kuu/AsteroidGame)
 
-
-### Shaders
+### [Shaders](https://www.shadertoy.com/view/3fKcRD)
 <video width="720" controls autoplay loop muted>
   <source src="assets/shadertool.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 I post all of my shaders publicly on my shadertoy profile to showcase my progress in GLSL and shader programming
-
-💻 [Example](https://www.shadertoy.com/view/3fKcRD)
