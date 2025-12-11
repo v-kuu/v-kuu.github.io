@@ -25,7 +25,7 @@ I wanted to learn to use the SFML library for an upcoming Supercell internship c
 
 ### [Shaders](https://www.shadertoy.com/view/3fKcRD)
 <video width="720" controls autoplay loop muted>
-  <source src="assets/shadertool.mp4" type="video/mp4">
+  <source src="assets/shadertool.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
