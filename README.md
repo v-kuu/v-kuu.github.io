@@ -12,12 +12,12 @@ I'm a software developer with a background as a freelance musician, a career whe
 
 ## Showcase
 
-### [Raytracer](https://github.com/v-kuu/Raytracer)
+### [Raytracer](https://github.com/v-kuu/Raytracer) - ![C++](https://img.shields.io/npm/v/npm.svg?logo=cplusplus) 
 ![Raytracer screenshot](assets/raytracer.png)
 
 I'm developing a raytracer for personal use as my big forever project. It has so far taught me a lot about project planning, build systems, modern C++, breaking circular dependencies, OOP patterns and most importantly how to implement algorithms related to graphics programming. My biggest use case for it is to continue learning and to have visual comparisons available for my implementations.
 
-### [Asteroidgame](https://github.com/v-kuu/AsteroidGame)
+### [Asteroidgame](https://github.com/v-kuu/AsteroidGame) - ![C++](https://img.shields.io/npm/v/npm.svg?logo=cplusplus)
 ![Asteroid screenshot](assets/asteroid.png)
 
 I wanted to learn to use the SFML library for an upcoming Supercell internship challenge, so I made a little Asteroids inspired game using the library. I learned how to better handle user input and how to implement my own shaders into a real program.
