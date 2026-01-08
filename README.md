@@ -9,6 +9,8 @@ I'm a software developer with a background as a freelance musician, a career whe
 - [Linkedin](https://www.linkedin.com/in/ville-kuusela-610859395)
 - [Github](https://github.com/v-kuu)
 - [Shadertoy](https://www.shadertoy.com/user/v_kuu)
+- [Download my CV](assets/cv.pdf)
+
 
 ## Showcase
 
